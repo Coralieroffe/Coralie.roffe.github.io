@@ -21,6 +21,7 @@ author: Coralie ROFFE
 
 navbar-links:
   About Me: "aboutme"
+  About You: "Aboutyou"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
