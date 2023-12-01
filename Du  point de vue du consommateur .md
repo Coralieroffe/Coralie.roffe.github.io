@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Du point de vue du consommateur 
+title:  Les difficultés de l'indice de réparabilité du point de vue du consommateur 
 subtitle: 
 ---
 
