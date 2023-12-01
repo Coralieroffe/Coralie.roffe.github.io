@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Pistes d'amélioration, le calcul de l'indice et sa transparence 
+title:  Le calcul de l'indice et sa transparence 
 subtitle: 
 ---
 L'indice de réparabilité est devenu un élément clé dans la promotion d'une consommation responsable et durable. Il vise à informer les consommateurs sur la facilité de réparation des produits, encourageant ainsi des choix favorables à l'environnement. Cependant, pour maximiser son impact, des évolutions et améliorations significatives peuvent être envisagées, notamment dans les domaines du calcul de l'indice, de la transparence et du contrôle exercé sur l'indice par les producteurs.
