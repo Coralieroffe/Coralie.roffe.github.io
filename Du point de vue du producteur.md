@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Les difficultés de l'indice de réparabilité du point de vue du producteur 
-subtitle: 
+title: Du point de vue du producteur 
+subtitle: Les difficultés de l'indice de réparabilité
 ---
 
 ### Défauts dans la grille de calcul :
