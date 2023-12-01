@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Les ameliorations possibles, un meilleur contrôle de l’indice et une implication de tous les acteurs 
+title: Les améliorations possibles, un meilleur contrôle de l’indice et une implication de tous les acteurs 
 subtitle: 
 ---
 
