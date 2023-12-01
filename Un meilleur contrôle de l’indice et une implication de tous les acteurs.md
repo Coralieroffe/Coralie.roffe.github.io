@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Un meilleur contrôle de l’indice et une implication de tous les acteurs 
+title: Le contrôle de l’indice et l'implication de ses acteurs 
 subtitle: 
 ---
 
