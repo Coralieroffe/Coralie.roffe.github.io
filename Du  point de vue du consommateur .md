@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  Les difficultés de l'indice de réparabilité du point de vue du consommateur 
-subtitle: 
+title:  Du point de vue du consommateur 
+subtitle:  Les difficultés de l'indice de réparabilité
 ---
 
   L'indice de réparabilité est une mesure très intéressante sur le papier. Elle invite les consommateurs et les producteurs à se poser des questions que cela soit sur l’environnement ou notre mode de consommation. Malheureusement au cours de notre enquête de nombreuses failles sont apparues dans cet indice aux intentions louables. C’est pourquoi durant cette partie nous allons nous intéresser aux dimensions problématiques que peuvent rencontrer l’indice de réparabilité. Dans un premier temps, nous nous concentrerons sur le point de vue consommateur puis nous aborderons le point de vue du producteur. 
