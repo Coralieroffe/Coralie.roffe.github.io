@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Les améliorations possibles, un meilleur contrôle de l’indice et une implication de tous les acteurs 
-subtitle: 
+title: Les améliorations possibles
+subtitle: un meilleur contrôle de l’indice et une implication de tous les acteurs 
 ---
 
 L’indice de réparabilité implique en effet une pluralité d’acteurs : il guide à la fois les fabricants dans leurs choix de design, les réparateurs dans l’anticipation des étapes clés de leurs réparations et les acheteurs dans leur souhait d’adopter une consommation responsable et durable. Dans cette optique, la charge de construire l’indice ne peut incomber uniquement aux fabricants et doit donner lieu à des discussions avec les parties prenantes. L’indice associé à un produit ne devrait en outre pas être une grandeur statique établie de manière définitive à la sortie d’usine – la 1re étape de son cycle de vie où, par ailleurs, sa réparabilité n’a pas été formellement testée par des consommateurs ou des réparateurs – mais une grandeur adaptative établie à différents stades. Une telle définition responsabilisant les réparateurs et les consommateurs en plus des fabricants contribuerait à ce que l’indice de réparabilité ne soit plus perçu par ces derniers comme une contrainte, mais bien comme un outil alimentant une analyse réflexive sur la conception de leurs produits.
