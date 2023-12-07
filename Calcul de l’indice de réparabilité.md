@@ -13,7 +13,8 @@ Par ailleurs, la notation prenant appui sur une grille d'évaluation remplie soi
 
 Plus précisément, à l’aune du tableau ci-dessous, voici comment le calcul s’opère.
 
-![Uploading Capture d’écran 2023-12-01 à 08.33.49.png…]()
+![WhatsApp Image 2023-12-07 at 12 38 02 PM](https://github.com/Coralieroffe/indice.de.reparabilite.github.io/assets/152532141/6e954829-18e3-4bb5-95a3-b5d969fcc090)
+
 
 Chaque sous-critère se voit attribuer une évaluation sur une échelle de 10 points puis un coefficient variable (allant de 0,2 à 2) est appliqué afin d’aboutir à une note finale sur 20 points par critère. Puis, par une pondération égale, la somme des notes conduit à une note totale sur 100 points qui sera ensuite ramenée sur 10 points. À noter que chaque critère implique une somme des coefficients égale à 2. Enfin, certains barèmes propres à chaque catégorie de produits détaillent les composants spécifiques ainsi que les subtilités de chaque élément.
 
